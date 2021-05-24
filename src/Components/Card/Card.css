@@ -1,13 +1,14 @@
 .card-grid{
     display: grid;
     grid-template-columns: repeat(3, auto);
-    grid-gap: 10px;
     padding-left: 50px;
     padding-right: 50px;
+    height: 60vh;
+    justify-content: center;
 }
 
 .card-container{
-    margin-bottom: -100px;
+    
 }
 
 .card-item-h3{
@@ -19,10 +20,17 @@
 }
 
 .card-item-img{
-    height: 35%;
-    width: 100%;
+    height: 25%;
+    width: 90%;
     display: block;
-    justify-content: center;
+    margin: auto;
+}
+
+.card-item-img-other{
+    height: 30%;
+    width: 80%;
+    display: block;
+    margin: auto;
 }
 
 .card-item-p{

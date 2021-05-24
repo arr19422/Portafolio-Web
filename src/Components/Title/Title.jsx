@@ -9,11 +9,11 @@ const Title = ({ text }) => (
   <div className="title-div">
     <h2 className="title-h2">{text}</h2>
     <p className="title-p">
-      Sobre
+      About
       {' '}
       {text}
-      {' '}
-      estas son algunas tecnologias que conozco:
+      {', '}
+      these are some technologies that I know:
     </p>
   </div>
 )

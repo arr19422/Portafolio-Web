@@ -4,12 +4,14 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import Card from './Components/Card/Card'
 import Title from './Components/Title/Title'
+import ImageContainer from './Components/ImageContainer/ImageContainer'
 
 const App = () => (
   <div>
-    <Title text="Tecnologias Web" />
+    <ImageContainer />
+    <Title text="Web Technologies" />
     <Card items="WebItems" />
-    <Title text="Otras Tecnologias" />
+    <Title text="Other Technologies" />
     <Card items="OtherItems" />
   </div>
 )
