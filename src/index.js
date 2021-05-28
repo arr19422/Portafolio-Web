@@ -9,6 +9,7 @@ import ImageContainer from './Components/ImageContainer/ImageContainer'
 const App = () => (
   <div>
     <ImageContainer />
+    <Title text="About Me" />
     <Title text="Web Technologies" />
     <Card items="WebItems" />
     <Title text="Other Technologies" />

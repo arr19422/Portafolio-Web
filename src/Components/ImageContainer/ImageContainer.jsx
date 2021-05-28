@@ -8,12 +8,14 @@ import './ImageContainer.css'
 const ImageContainer = () => (
   <div>
     <div className="div-cont">
-      <img className="img-cont" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4IwKm" />
+      <img className="img-cont" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
       <div className="card">
-        <h3 className="h3-text">Hi! Im Diego Arredondo</h3>
-        <p className="p-text">And as you can see... I'm a BACK-END Developer!</p>
-        <a href="https://www.microsoft.com/es-es/edge/features" className="a-text">
-          <span>MÁS CARACTERISTICAS</span>
+        <div className="photo" />
+        <h3 className="h3-text">Hi! I'm Diego Arredondo</h3>
+        <p className="p-text">And as you can see...</p>
+        <p className="p-text">I'M A BACK-END DEVELOPER!</p>
+        <a href="#about" className="a-text">
+          <span>About Me</span>
         </a>
       </div>
     </div>

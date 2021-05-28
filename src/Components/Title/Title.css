@@ -1,5 +1,5 @@
 .title-div{
-    margin-top: 70px;
+    margin-top: 50px;
     margin-bottom: 70px;
 }
 
@@ -17,4 +17,40 @@
     line-height: 24px;
     text-align: center;
     font-family: 'Segoe UI';
+}
+
+.card-grid{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 55vh;
+    justify-content: center;
+}
+
+.image1{
+    background-image: url("../../images/photo2.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 40vh; 
+    height: 50vh; 
+    margin: 50px 50px ;
+}
+
+.image2{
+    background-image: url("../../images/photo3.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 35vh; 
+    height: 45vh; 
+    margin: 50px 50px ;
+}
+
+.image3{
+    background-image: url("../../images/photo4.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 40vh; 
+    height: 50vh; 
+    margin: 50px 50px ;
 }
