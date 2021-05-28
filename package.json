@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "deploy": "gh-pages -d dist",
     "start": "node src/index.js",
     "build": "webpack",
     "serve": "webpack serve"
