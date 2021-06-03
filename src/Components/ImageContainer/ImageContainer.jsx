@@ -15,7 +15,7 @@ const ImageContainer = () => (
         <p className="p-text">And as you can see...</p>
         <p className="p-text">I'M A BACK-END DEVELOPER!</p>
         <a href="#about" className="a-text">
-          <span>About Me</span>
+          <span>ABOUT ME</span>
         </a>
       </div>
     </div>

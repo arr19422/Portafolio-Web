@@ -23,6 +23,13 @@ const Title = ({ text }) => {
         </div>
       </div>
     )
+  } if (text === 'My Projects') {
+    return (
+      <div className="title-div" id="about">
+        <h2 className="title-h2">{text}</h2>
+        <p className="title-p">If you want to see my projects, check my Github and Gitlab repositories :D</p>
+      </div>
+    )
   }
 
   return (

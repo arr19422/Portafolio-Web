@@ -1,0 +1,12 @@
+.card-projects{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    padding-left: 50px;
+    padding-right: 50px;
+    justify-content: center;
+}
+
+.card-container-pr{
+    height: 50vh;
+    width: 60vh;
+}

@@ -5,6 +5,7 @@ import ReactDOM from 'react-dom'
 import Card from './Components/Card/Card'
 import Title from './Components/Title/Title'
 import ImageContainer from './Components/ImageContainer/ImageContainer'
+import Projects from './Components/Projects/Projects'
 
 const App = () => (
   <div>
@@ -14,6 +15,8 @@ const App = () => (
     <Card items="WebItems" />
     <Title text="Other Technologies" />
     <Card items="OtherItems" />
+    <Title text="My Projects" />
+    <Projects />
   </div>
 )
 

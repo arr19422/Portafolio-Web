@@ -24,8 +24,10 @@
     grid-template-columns: repeat(3, auto);
     padding-left: 50px;
     padding-right: 50px;
-    height: 55vh;
+    height: 40vh;
     justify-content: center;
+    margin-bottom: 20vh;
+
 }
 
 .image1{

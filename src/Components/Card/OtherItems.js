@@ -8,7 +8,7 @@ const OtherItems = [
     classP: 'card-item-p',
   },
   {
-    title: 'MongoDb',
+    title: 'MongoDB',
     desc: 'I consider myself knowledgeable about MongoDB, Doing advanced queries and using it in various development environments and programming languages',
     image: 'https://images.ctfassets.net/23aumh6u8s0i/6wTbGkTM3EBoO6hytvOcXj/d0144f86227382219fd2c8f4f53499c6/illustration',
     classH3: 'card-item-h3',
