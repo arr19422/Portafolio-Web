@@ -31,7 +31,7 @@ html {
 }
 
 .h3-text{
-    font-family: 'Segoe UI';
+    font-family: 'Century Gothic';
     text-align: center;
     font-weight: 600;
     font-size: 20px;
@@ -40,7 +40,7 @@ html {
 }
 
 .p-text{
-    font-family: 'Segoe UI';
+    font-family: 'Courier New';
     text-align: center;
     font-size: 15px;
     padding-left: 20px;
@@ -58,7 +58,7 @@ html {
     outline-offset: -3px;
     z-index: 0;
     font-family: 'Segoe UI';
-    color: #005da6;
+    color: #00e101;
     font-weight: 600;
     line-height: 1.2;
     white-space: nowrap;

@@ -6,6 +6,7 @@ import Card from './Components/Card/Card'
 import Title from './Components/Title/Title'
 import ImageContainer from './Components/ImageContainer/ImageContainer'
 import Projects from './Components/Projects/Projects'
+import './index.css'
 
 const App = () => (
   <div>

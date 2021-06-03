@@ -1,6 +1,6 @@
 .title-div{
-    margin-top: 50px;
     margin-bottom: 70px;
+    border-top: 20px solid #201f1f;
 }
 
 .title-h2{
@@ -8,7 +8,8 @@
     font-size: 34px;
     line-height: 40px;
     text-align: center;
-    font-family: 'Segoe UI';
+    font-family: 'Century Gothic';
+    color: #00e101;
 }
 
 .title-p{
@@ -16,7 +17,8 @@
     font-size: 20px;
     line-height: 24px;
     text-align: center;
-    font-family: 'Segoe UI';
+    font-family: 'Courier New';
+    color: white;
 }
 
 .card-grid{

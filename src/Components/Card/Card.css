@@ -12,31 +12,33 @@
 }
 
 .card-item-h3{
-    font-family: 'Segoe UI';
+    font-family: 'Century Gothic';
     text-align: center;
     font-weight: 600;
     font-size: 20px;
     line-height: 24px;
+    color: white;
 }
 
 .card-item-img{
     height: 30%;
-    width: 80%;
+    width: 60%;
     display: block;
     margin: auto;
 }
 
 .card-item-img-other{
-    height: 35%;
-    width: 80%;
+    height: 30%;
+    width: 65%;
     display: block;
     margin: auto;
 }
 
 .card-item-p{
-    font-family: 'Segoe UI';
+    font-family: 'Courier New';
     text-align: center;
     font-size: 15px;
     padding-left: 20px;
     padding-right: 20px;
+    color: white;
 }
