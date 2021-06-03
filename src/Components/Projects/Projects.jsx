@@ -9,7 +9,9 @@ const Projects = () => (
   <div className="card-projects">
     {WebItems.map((item) => (
       <div className="card-container-pr">
-        <h3 className={item.classH3}>{item.title}</h3>
+        <a href={item.link}>
+          <img className="card-item-img-pr" src={item.img} alt="" />
+        </a>
       </div>
     ))}
   </div>
